@@ -33,4 +33,4 @@ Note: In almost all cases, the team id is very important to perform an operation
 
 For this, go to the file TeamsMemberApplicationTest in folder 'test' and run it.
 
-![](img/delete-team.png)
+![](unit-tests.png)
